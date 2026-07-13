@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# エディタ・OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Claude Code ローカル設定
+.claude/settings.local.json
