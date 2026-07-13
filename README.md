@@ -1,6 +1,8 @@
 # irpond — Impulse Response メーカー
 
-スイープ測定から Impulse Response(IR)wav ファイルを作成する GUI ツールです。
+スイープ測定からImpulse Response(IR)ファイルを作成するGUIツール
+
+<img src="ss.png" width="400">
 
 ## 機能
 
